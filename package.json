@@ -1,0 +1,14 @@
+{
+  "name": "float-layout",
+  "version": "1.0.0",
+  "description": "Aprendiendo float layout",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass main.scss style.css -w"
+  },
+  "author": "IngSebastian",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
